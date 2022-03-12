@@ -63,7 +63,7 @@ opt-einsum==3.2.1
 padme==1.1.1
 pbr==5.4.4
 pexpect==4.0.1
-Pillow==7.1.1
+Pillow==9.0.1
 plainbox==0.25
 protobuf==3.11.3
 ptyprocess==0.5
